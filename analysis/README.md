@@ -1,6 +1,6 @@
 # Analysis 
 
-This folder contains materials related to the analysis performed as part of the project. 
+This folder contains materials related to the analysis conducted as part of the project. 
 
 ---
 
